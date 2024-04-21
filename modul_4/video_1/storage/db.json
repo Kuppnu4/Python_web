@@ -1,0 +1,38 @@
+[
+  {
+    "title": "first article",
+    "date": "22.02.22",
+    "author": "Aleks",
+    "text": "Lorem Ipsum is Lorem Ipsum and therefore the canonical form of Lorem Ipsum"
+  },
+  {
+    "title": "About the usability of beer",
+    "date": "2.03.23",
+    "author": "Andriy",
+    "text": "Lorem Ipsum is Lorem Ipsum and therefore the canonical form of Lorem Ipsum"
+  },
+  {
+    "title": "Why programming ist evil",
+    "date": "5.02.24",
+    "author": "Eduard",
+    "text": "Lorem Ipsum is Lorem Ipsum and therefore the canonical form of Lorem Ipsum"
+  },
+  {
+    "title": "Where disappear birds",
+    "date": "6.06.20",
+    "author": "Sergiy",
+    "text": "Lorem Ipsum is Lorem Ipsum and therefore the canonical form of Lorem Ipsum"
+  },
+  {
+    "title": "Who has the KAMAZ stollen",
+    "date": "12.12.12",
+    "author": "Ruslan",
+    "text": "Lorem Ipsum is Lorem Ipsum and therefore the canonical form of Lorem Ipsum"
+  },
+  {
+    "title": "We will win",
+    "date": "01.09.23",
+    "author": "Volodymyr",
+    "text": "Lorem Ipsum is Lorem Ipsum and therefore the canonical form of Lorem Ipsum"
+  }
+]

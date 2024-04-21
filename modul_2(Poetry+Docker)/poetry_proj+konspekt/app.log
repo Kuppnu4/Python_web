@@ -1,0 +1,4 @@
+2024-02-22 21:09:55,522 - simple_example - ERROR - error message
+2024-02-22 21:09:55,522 - simple_example - CRITICAL - critical message
+2024-02-22 21:11:20,948 - simple_example - ERROR - error message
+2024-02-22 21:11:20,948 - simple_example - CRITICAL - critical message

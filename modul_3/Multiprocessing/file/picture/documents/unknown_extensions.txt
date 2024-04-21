@@ -1,0 +1,12 @@
+
+.MOX
+.odt
+.MOV
+.pptxx
+.bmp
+.txx
+.WAXV
+.text
+.mox
+.mov
+.docV
