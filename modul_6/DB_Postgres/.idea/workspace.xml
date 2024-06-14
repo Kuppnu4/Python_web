@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f945f5b-1f9d-44e7-9c02-c83c8b954b69" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/.idea/add_2_recursives_and_algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/args_pro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/insertion_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/merge_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/quick_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/radix_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/recursion_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/recursion_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/recursion_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/recursion_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/selection_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/shell_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../add_2_recursives_and_algorithms/sort_bubble.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dop_lessons/dop_3_find_algo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dop_lessons/dop_3_find_algo/.idea/dop_3_find_algo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dop_lessons/dop_3_find_algo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dop_lessons/dop_3_find_algo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dop_lessons/dop_3_find_algo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dop_lessons/dop_3_find_algo/.idea/poetry.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dop_lessons/dop_3_find_algo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dop_lessons/dop_3_find_algo/binary_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dop_lessons/dop_3_find_algo/bm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dop_lessons/dop_3_find_algo/hash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dop_lessons/dop_3_find_algo/index_linear_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dop_lessons/dop_3_find_algo/interpolation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dop_lessons/dop_3_find_algo/kmp_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dop_lessons/dop_3_find_algo/linear_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dop_lessons/dop_3_find_algo/naitive_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dop_lessons/dop_3_find_algo/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../dop_lessons/dop_3_find_algo/rabina.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/DB_Postgres.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/connect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/select.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/update.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SQL_lite/.idea/SQL_lite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/.idea/modul_7_ORM_SQLAlchemy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/.idea/Alembic_Migrations.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/.idea/poetry.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/conf/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/conf/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/hw/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/migrations/versions/52b165153e3a_add_contact_s_student_not_null.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/migrations/versions/793eff1e782d_init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/migrations/versions/b9432e413897_add_contact_s_student_not_null_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/migrations/versions/cc55fd28044e_add_table_contact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/seed/add_contacts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/seed/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/seed/remove_contacts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Alembic_Migrations/seed/remove_students_teachers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/.idea/Migrations_Alembic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/.idea/poetry.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/conf/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/conf/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/Migrations_Alembic/seed/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/ORM_SQLAlchemy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/ORM_SQLAlchemy/.idea/ORM_SQLAlchemy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/ORM_SQLAlchemy/orm_async_session.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/ORM_SQLAlchemy/orm_core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/ORM_SQLAlchemy/orm_session.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/ORM_SQLAlchemy/orm_session_new_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/ORM_SQLAlchemy/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/.idea/m16_hw.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/.idea/poetry.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/conf/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/conf/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/migrations/versions/ea86a82c2219_init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../modul_7_ORM_SQLAlchemy/m16_hw/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FinalProject_GoIT" beforeDir="false" afterPath="$PROJECT_DIR$/../../FinalProject_GoIT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new_algo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new_algo/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new_algo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new_algo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new_algo/.idea/new_algo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new_algo/.idea/poetry.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new_algo/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new_algo/poetry.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../new_algo/pyproject.toml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2fbc27FOa0ChRsPIWrGgfN2P84T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.create.executor&quot;: &quot;Run&quot;,
+    &quot;Python.insert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.migration.executor&quot;: &quot;Run&quot;,
+    &quot;Python.select.executor&quot;: &quot;Run&quot;,
+    &quot;Python.update.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/aleksandr.voitushenko/Desktop/GoIT/PythonWeb/modul_6/DB_Postgres&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="create" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DB_Postgres" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="insert" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DB_Postgres" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/insert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DB_Postgres" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="migration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DB_Postgres" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/migration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="select" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DB_Postgres" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/select.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="update" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DB_Postgres" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/update.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.select" />
+        <item itemvalue="Python.update" />
+        <item itemvalue="Python.migration" />
+        <item itemvalue="Python.insert" />
+        <item itemvalue="Python.create" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f945f5b-1f9d-44e7-9c02-c83c8b954b69" name="Changes" comment="" />
+      <created>1714073007871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714073007871</updated>
+    </task>
+    <servers />
+  </component>
+</project>
