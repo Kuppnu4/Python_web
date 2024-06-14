@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "helper-docker-image"
+version = "0.1.0"
+description = ""
+authors = ["Aleksandr <aleksandr.voitushenko@gmail.com>"]
+license = "mit"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
