@@ -1,12 +1,8 @@
 [tool.poetry]
-name = "helper-docker-image"
+name = "finalproject-address-book"
 version = "0.1.0"
 description = ""
 authors = ["Aleksandr <aleksandr.voitushenko@gmail.com>"]
-<<<<<<< HEAD
-license = "mit"
-=======
->>>>>>> 591a282eeba65546c9d8f03162dd032ccafb2c77
 readme = "README.md"
 
 [tool.poetry.dependencies]
@@ -16,10 +12,3 @@ python = "^3.11"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
-<<<<<<< HEAD
-=======
-
-
-[tool.poetry.scripts]
-hello = "__main__:main"
->>>>>>> 591a282eeba65546c9d8f03162dd032ccafb2c77
