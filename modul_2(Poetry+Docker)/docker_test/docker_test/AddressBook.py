@@ -12,7 +12,7 @@ class AddressBook(UserList):
 
     def __str__(self):
         result = []
-        
+
         for account in self.data:
             if account['birthday']:
                 birth = account['birthday'].strftime("%d/%m/%Y")
@@ -26,7 +26,7 @@ class AddressBook(UserList):
                 phone = ', '.join(new_value)
             else:
                 phone = ''
-            
+
             result.append(
                 "_" * 50 + "\n" + f"Name: {account['name']} \nPhones: {phone} \nBirthday: {birth} \nEmail: {account['email']} \nStatus: {account['status']} \nNote: {account['note']}\n" + "_" * 50 + '\n')
         return '\n'.join(result)
@@ -79,9 +79,9 @@ class AddressBook(UserList):
 
     def load(self, file_name):
         try:
-            emptyness = os.stat('helper-app/' + file_name + '.bin')
+            emptyness = os.stat(file_name + '.bin')  # 'docker_test/' +
             if emptyness.st_size != 0:
-                with open('helper-app/' + file_name + '.bin', 'rb') as file:
+                with open(file_name + '.bin', 'rb') as file:  # 'docker_test/' +
                     self.data = pickle.load(file)
                 self.log("Addressbook has been loaded!")
             else:
@@ -89,7 +89,6 @@ class AddressBook(UserList):
             return self.data
         except IOError as er:
             print('error--- ', er)
-
 
     def search(self, pattern, category):
         result = []
@@ -146,8 +145,8 @@ class AddressBook(UserList):
                 self.log(f"Contact {account['name']} has been removed!")
                 flag = True
             if pattern in account['phones']:
-                        account['phones'].remove(pattern)
-                        self.log.log(f"Phone number of {account['name']} has been removed!")
+                account['phones'].remove(pattern)
+                self.log(f"Phone number of {account['name']} has been removed!")
         return flag
 
     def __get_current_week(self):
@@ -177,4 +176,3 @@ class AddressBook(UserList):
             if len(value):
                 result.append(f"{key}: {' '.join(value)}")
         return '_' * 50 + '\n' + '\n'.join(result) + '\n' + '_' * 50
-

@@ -1,6 +1,11 @@
 from CLIBot import CLIBot
 
-if __name__ == "__main__":
+
+def helper():
+    print('console skript')
+
+
+def main():
     print('Hello. I am your contact-assistant. What should I do with your contacts?')
     bot = CLIBot()
     bot.book.load("auto_save")
@@ -19,3 +24,7 @@ if __name__ == "__main__":
 
         for comand in filter(lambda c: c.lower() == action, commands):
             commands[comand]()
+
+
+if __name__ == "__main__":
+    main()
