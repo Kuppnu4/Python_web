@@ -4,8 +4,12 @@ RUN apt update
 RUN apt install -y python3
 RUN apt install -y python3-pip
 
-COPY helper-app /app
+WORKDIR /docker_test
 
-RUN pip install -r helper-app/requirements.txt
+COPY docker_test /docker_test
 
-CMD ["python3", "/app"]
+RUN pip install -r /docker_test/requirements.txt
+
+RUN pip install .
+
+CMD ["python3", "__main__.py"]
