@@ -1,0 +1,3 @@
+[console_scripts]
+console_read = docker_test.__main__:helper
+helper_run = docker_test.__main__:main

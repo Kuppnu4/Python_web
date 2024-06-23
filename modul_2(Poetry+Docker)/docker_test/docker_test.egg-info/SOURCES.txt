@@ -1,0 +1,13 @@
+README.md
+setup.py
+docker_test/AddressBook.py
+docker_test/BotInterface.py
+docker_test/CLIBot.py
+docker_test/__init__.py
+docker_test/__main__.py
+docker_test/info.py
+docker_test.egg-info/PKG-INFO
+docker_test.egg-info/SOURCES.txt
+docker_test.egg-info/dependency_links.txt
+docker_test.egg-info/entry_points.txt
+docker_test.egg-info/top_level.txt
